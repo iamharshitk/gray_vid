@@ -1,6 +1,6 @@
 import cv2 as cv
 
-vid=cv.VideoCapture("C:\\Users\\harsh\\Downloads\\123.mp4")
+vid=cv.VideoCapture("")
 
 winname="Greyscale Video"
 
